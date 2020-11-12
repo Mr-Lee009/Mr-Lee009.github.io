@@ -8,3 +8,4 @@
 ![alt](https://img.vn/uploads/version/img24-png-20190726133727cbvncjKzsQ.png)
 
 {@gist: https://mr-lee009.github.io/ConfigJPA/JPAconfig.java}
+{@gist: https://gist.github.com/JeffreyWay/207e3bfdb5cafff050a1d75dbf755a5c }
